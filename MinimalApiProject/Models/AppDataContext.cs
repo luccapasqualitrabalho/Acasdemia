@@ -14,7 +14,7 @@ namespace projeto
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Aqui você pode adicionar configurações adicionais para suas entidades, se necessário.
+
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfo.cs
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\autologon\Documents\Prova-Substitutiva-Lucca-Cruz-Pasquali\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.sourcelink.json
